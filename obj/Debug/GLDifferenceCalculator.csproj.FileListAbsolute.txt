@@ -1,0 +1,12 @@
+C:\Users\lcelestine\Source\GLDifferenceCalculator\bin\Debug\GLDifferenceCalculator.exe.config
+C:\Users\lcelestine\Source\GLDifferenceCalculator\bin\Debug\GLDifferenceCalculator.exe
+C:\Users\lcelestine\Source\GLDifferenceCalculator\bin\Debug\GLDifferenceCalculator.pdb
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.csproj.AssemblyReference.cache
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.exe
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.pdb
+C:\Users\lcelestine\Source\GLDifferenceCalculator\bin\Debug\GLDifferenceCalculator.exe.manifest
+C:\Users\lcelestine\Source\GLDifferenceCalculator\bin\Debug\GLDifferenceCalculator.application
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.exe.manifest
+C:\Users\lcelestine\Source\GLDifferenceCalculator\obj\Debug\GLDifferenceCalculator.application

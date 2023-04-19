@@ -42,12 +42,12 @@ namespace GLDifferenceCalculator
                 }
             }
             Console.WriteLine("Here are the possibilities that are making the difference in your GL:");
-            RecurseEntries(Difference, Entries, new SuccessTracker());
+            SearchEntries(Difference, Entries, new SuccessTracker());
             Console.WriteLine("Press Enter to close...");
             Console.ReadLine();
         }
 
-        static void RecurseEntries(float Difference, List<float> Entries, SuccessTracker Successes, string Possibility = "", float Sum = 0)
+        static void SearchEntries(float Difference, List<float> Entries, SuccessTracker Successes, string Possibility = "", float Sum = 0)
         {
             if (Sum == Difference) {
                 List<float> NewSuccess = Possibility.Split('+').Select(n => float.Parse(n)).ToList();
@@ -66,7 +66,7 @@ namespace GLDifferenceCalculator
                     float Entry = Entries[i];
                     List<float> SubEntries = new List<float>(Entries);
                     SubEntries.RemoveAt(i);
-                    RecurseEntries(Difference, SubEntries, Successes, Possibility + Entry + " ", Sum + Entry);
+                    SearchEntries(Difference, SubEntries, Successes, Possibility + Entry + " ", Sum + Entry);
                 }
             }
         }
